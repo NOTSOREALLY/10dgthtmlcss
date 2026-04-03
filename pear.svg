@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 772.42 388.32">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #64192e;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-4, .cls-2 {
+        stroke-width: 8px;
+      }
+
+      .cls-4, .cls-2, .cls-3 {
+        stroke: #64192e;
+      }
+
+      .cls-4, .cls-2, .cls-3, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #f7941d;
+        stroke: #f7941d;
+      }
+
+      .cls-7 {
+        fill: #231f20;
+        font-family: ComicSansMS, 'Comic Sans MS';
+        font-size: 112.84px;
+      }
+
+      .cls-6 {
+        fill: #d66d51;
+        stroke: #d66d51;
+      }
+    </style>
+  </defs>
+  <path class="cls-4" d="M526.56,269.93c-39.21-34.35-55.96-79.95-37.46-101.95"/>
+  <path class="cls-4" d="M750.85,169.3c-7.7,52.15-36.65,90.86-64.74,86.54"/>
+  <ellipse class="cls-5" cx="612.45" cy="259.75" rx="125.47" ry="128.07"/>
+  <ellipse class="cls-6" cx="550.85" cy="269.93" rx="17.47" ry="10.38"/>
+  <ellipse class="cls-6" cx="665.69" cy="269.93" rx="17.47" ry="10.38"/>
+  <path class="cls-1" d="M2.41,5c3.22,0,3.22-5,0-5s-3.22,5,0,5h0Z"/>
+  <ellipse class="cls-3" cx="561.86" cy="232.73" rx="11.01" ry="11.24"/>
+  <ellipse class="cls-3" cx="655.98" cy="234.06" rx="9.71" ry="9.91"/>
+  <path class="cls-2" d="M626.71,299.86c0,9.41-9.34,17.03-20.86,17.03s-20.86-7.63-20.86-17.03"/>
+  <text class="cls-7" transform="translate(468.61 163.73)"><tspan x="0" y="0">RMCC</tspan></text>
+</svg>
