@@ -92,7 +92,8 @@ div.section {
 div.box {
      border: 10px solid rgb(62, 127, 203);
      padding: 5px;
-     gap: 5px;
+     gap: 10px;
+     margin: 5px;
 }  
 .menu{
      background:rgb(62, 127, 202);
