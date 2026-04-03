@@ -1,0 +1,185 @@
+h1 {
+    font-size: 70px;
+    color: rgb(170, 0, 28);
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: Montez;
+}
+h2 {
+     font-size:44px;
+     color: rgb(14, 39, 151);
+     text-align: center;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     font-family: Montez;
+}
+h3 {
+     font-size: 27px;
+     color: rgb(14, 39, 151);
+     margin-right: 40px;
+     width: 100%;
+     text-align: center;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     font-family: Domine;
+     font-weight: bold;
+}
+h4 {
+     font-size: 22px;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     text-align: center;
+     color: rgb(170, 0, 28);
+     font-family: Domine;
+}
+h5 {
+     font-size: 20px;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     text-align: center;
+     font-family: Domine;
+}
+h6 {
+     font-size: 27px;
+     color: rgb(14, 39, 151);
+     width: 100%;
+     text-align: left;
+     display: flex;
+     flex-wrap: wrap;
+     font-family: Delius;}
+
+h7 {
+     font-size:6px;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     text-align: center;
+     color: rgb(170, 0, 28);
+     background-color: rgb(170, 0, 28);
+     height: 7px;
+     font-family: Domine;
+     gap: 5px;
+}
+p {
+     font-size: 16px;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     text-align: center;
+     color: rgb(170, 0, 28);
+     font-family: Domine;
+}
+span { 
+     text-align:justify; 
+     color:rgb(97, 146, 211);
+     justify-content: center; 
+     line-height: 1; 
+     
+}
+div.section {
+     border: 10px solid rgb(62,127,202);
+     padding: 5px;
+     gap: 5px;
+     
+}
+div.box {
+     border: 10px solid rgb(62, 127, 203);
+     padding: 5px;
+     gap: 5px;
+}  
+.menu{
+     background:rgb(62, 127, 202);
+     text-align: right;
+     height: 90px;
+}
+
+.menu ul{
+     display: inline-flex;
+     list-style: none;
+}
+
+.menu ul li{
+     width: 120px;
+     margin: 0px;
+     padding: 20px;
+}
+
+.menu ul li a {
+     text-decoration: none;
+     color: white;
+     text-align: center;
+}
+.hover-box, .menu ul li:hover{
+     background: rgb(9, 56, 117);
+     width:120px;
+     height:20px;     
+}
+.menu li a{
+     display: block;
+     text-decoration: none;
+}
+
+
+.hover-box {
+     padding: 10px;
+     margin: 5px;}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  
+}
+
+img.pear {
+     position: absolute;
+     left: -25px;
+     top: -12px;
+     width: 120px;
+     height: 120px;
+}
+.blob{
+     width:160px;
+     height:40px;
+     background:#6bd04d;
+     border-radius:40px;
+     text-align: center;
+     position: absolute;
+}    
+     
+
+div .pencil{
+     display: flex;
+     justify-content: center;
+     width: auto;
+     height: auto;
+     padding: 10px;
+
+}
+.pencil{
+     display: flex;
+     gap: 10px; 
+}
+div .geo{
+     display: flex;
+     justify-content: center;
+     padding: 10px;
+}
+.geo{ 
+     width: 60px;
+     height: auto; 
+     display: flex;
+     flex-wrap: wrap;
+     gap: 10px; 
+     position: absolute;
+     left: 400px;
+     top: 145px;
+}
