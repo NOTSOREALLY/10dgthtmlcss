@@ -178,7 +178,7 @@ div .geo{
      width: 60px;
      height: auto; 
      display: flex;
-     flex-wrap: wrap;
+     flex-wrap: nowrap;
      gap: 10px; 
      position: absolute;
      left: 400px;
